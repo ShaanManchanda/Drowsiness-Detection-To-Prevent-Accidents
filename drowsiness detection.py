@@ -9,9 +9,9 @@ import time
 mixer.init()
 sound = mixer.Sound(r"C:\Users\shaan\Desktop\Drowsiness detection\Drowsiness detection\alarm.wav")
 
-face = cv2.CascadeClassifier('haar cascade files\haarcascade_frontalface_alt.xml')# identifies face
-leye = cv2.CascadeClassifier('haar cascade files\haarcascade_lefteye_2splits.xml')
-reye = cv2.CascadeClassifier('haar cascade files\haarcascade_righteye_2splits.xml')
+face = cv2.CascadeClassifier(r"C:\Users\shaan\Desktop\Drowsiness detection\Drowsiness detection\haar cascade files\haarcascade_frontalface_alt.xml")# identifies face
+leye = cv2.CascadeClassifier(r'haar cascade files\haarcascade_lefteye_2splits.xml')
+reye = cv2.CascadeClassifier(r'haar cascade files\haarcascade_righteye_2splits.xml')
 
 
 
