@@ -1,4 +1,4 @@
-# Drowsiness-Detection-To-Prevent-Accidents
+# DrowziSense: Drowsiness-Detection-To-Prevent-Accidents
 This project aims to detect drowsiness in individuals using computer vision techniques. It is implemented using Python and Keras.
 
 # Overview
